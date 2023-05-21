@@ -1,10 +1,16 @@
 # UAVPROJECT
-UAV Communications Protocol Project Report. No Code for legal purposes. 
+**Jesus Gutierrez Resume **
+
+Please find attached to this repository my Resume for your reference.
+Please feel free to contact me at any time and any day!
+
+**The UAV Communications Protocol Project Report. **
+
+No Code for legal purposes. 
 Please read the report for a detailed explanation on this successful project.
 In order to graduate and recieve my Bachelor of Science in Software Engineering 
 and continue with my Master of Science in Software Engineering Degree, 
 I had to successfully complete this sponsored project. 
-
 In the end the customer recieved the requested UAV Communications Protocol, and was fully satisfied.
 I successfully delivered this Project with my team, and I was allowed to graduate. 
 I received a Bachelor of Science in Software Engineering and continued my studies for a 
